@@ -1,0 +1,39 @@
+{
+    "array": [
+        {
+            "name": "yzh",
+            "password": "123456",
+            "permission": "超级管理员"
+        },
+        {
+            "name": "yzh1",
+            "password": "123456",
+            "permission": "管理员"
+        },
+        {
+            "name": "yzh2",
+            "password": "123456",
+            "permission": "管理员"
+        },
+        {
+            "name": "yzh3",
+            "password": "123456",
+            "permission": "管理员"
+        },
+        {
+            "name": "yzh4",
+            "password": "123456",
+            "permission": "管理员"
+        },
+        {
+            "name": "yzh8",
+            "password": "1234567",
+            "permission": "普通用户"
+        },
+        {
+            "name": "yzh5",
+            "password": "123456",
+            "permission": "管理员"
+        }
+    ]
+}
