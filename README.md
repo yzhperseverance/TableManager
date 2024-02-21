@@ -1,0 +1,2 @@
+# TableManager
+一款基于Qt的表格管理软件，使用QXlsx对xlsx表格数据进行操作
